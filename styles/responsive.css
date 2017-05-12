@@ -1,0 +1,728 @@
+
+/*============================= ! Layout for ipad landscape ============================= */
+@media only screen and (max-width:1024px) {
+    
+}
+
+/* ============================= */
+/*============================= 
+! Layout for ipad portrait  
+============================= */
+@media only screen and (max-width: 992px) {
+  #container { 
+    height: 39px; 
+    position: relative; 
+    width: 746px;
+  }  
+  .headerCenter { 
+    height: auto; 
+    background: none; 
+  }
+  .addBox img { 
+    width: 100%; 
+    height: auto; 
+  }
+  .nextBtn{
+    left: 723px!important;
+  }
+  .prevBtn { 
+    left: 20px!important; 
+  }  
+  #slider { 
+    width: 548px!important; 
+  }
+  .wp-post-image { 
+    width: 100%; height: auto; 
+  }
+  .menuBox li {
+    margin-right: 0%; 
+    font-size: 12px; 
+  }
+  .productBox {
+    margin-top: 20px;
+  }
+  .productBox li { 
+    width: 35.31%; 
+    margin: 0 3.8% 7px 0; 
+  }
+  .readBox li { 
+    min-height: 120px;
+  }
+  ul.servicesList figure { 
+    width: 26.86%;
+  }
+  ul.servicesList .clime { 
+    width: 73.14%; 
+  }
+  .videoBox iframe {
+    width: 100%!important; 
+    height: 86px!important; 
+  } 
+  .returnText h3 { 
+    padding-bottom: 10px; 
+    width: 100%; 
+  }
+  ul.eventList li span.one small { 
+    width: 46%; 
+  }
+  ul.eventList li span.two { 
+    width: 32%.33; 
+  }
+  ul.eventList li span.three { 
+    width: 21.67%; 
+  }
+  ul.eventList li { 
+    font-size: 10px; 
+  }
+  .socialBox li { 
+    padding-right: 2%; 
+  }
+  .socialBox li img { 
+    width: 52px; 
+    height: 52px; 
+  }  
+  ul.imageLink .pictureBg { 
+    width: 140px; 
+  }
+  ul.imageLink .picInfob { 
+    width: 133px; 
+    height: 90px; 
+  }
+  ul.imageLink span { 
+    width:133px;
+  }
+  .picBg { 
+    background-size: 96%; 
+  }
+  ul.imageLink li { 
+    width: 23%; 
+    margin-right: 0px; 
+  }
+  .menuBox { 
+    width: 96%; 
+    float:left; 
+    padding: 0px; 
+    margin: 0 2%; 
+  }
+  .deliverInfo { 
+    position: relative; 
+    z-index: 4; 
+    width: 508px; 
+  }
+  .homeBox .homeLeft { 
+    width: 95%;
+  }
+  .homeRightJA {
+    top: -179px; 
+    right: -25px;
+  }
+  h4.cavf-home-title { 
+    font-size: 20px; 
+  }
+  .featureImg a.featureLink {
+    display: none;
+  }
+  .slider-list {
+
+  }
+}
+/* ============================= */
+/* ! Layout for mobile(lanscape) version   */
+/* ============================= */
+@media only screen and (max-width: 768px) {
+  
+  #container { 
+    height: 39px; 
+    position: relative; 
+    width: 470px;
+  }  
+  .nextBtn { 
+    left: 431px!important; 
+  }
+  #slider { 
+    width: 348px!important; 
+  }
+  #slider li { 
+    margin-right: 15px!important; 
+  }
+  .headerCntr { 
+    padding-bottom: 15px; 
+    width: 100%; 
+    height: auto; 
+    float: left;
+  }
+  .headerLogo { 
+    padding: 15px 0 15px 0; 
+    width: 100%; 
+    float: left; 
+    text-align: center; 
+    display: inline;
+  }
+  .headerLogo a { 
+    display: inline-block; 
+  }
+  .productBox ul { 
+    text-align: center; 
+  }
+  .productBox li { 
+    width: 52%; 
+    display: inline; 
+    margin-left: 24%; 
+  }
+  .headerRight { 
+    width: 100%; 
+    float: left; 
+  }
+  .searchBox { 
+    padding-bottom: 15px; 
+  }
+  .searchBox .searchR { 
+    width: 50%; 
+  }
+  .menuBox ul { 
+    padding: 0 2% 15px 2%; 
+    width: 96%; 
+    float: left; 
+    text-align: left; 
+  }
+  .menuBox li { 
+    padding-right: 1.5%; 
+  }
+  #menu-item-12 { 
+    padding-right: 0px; 
+  }
+  .footerBox .widget_nav_menu { 
+    width: 44%; 
+    margin: 0 3% 0 2%; 
+  }
+  .footerBox { 
+    padding: 5px 0 15px 0; 
+  }
+  .footerBox .widgettitle { 
+    padding-top: 15px; 
+  }
+  .copyrightBox .copyLeft { 
+    width: 100%; 
+    float: left; 
+  }
+  .copyrightBox .copyRight { 
+    width: 100%; 
+    float: left; 
+  }
+  .leftBar { 
+    width: 100%; 
+    float: left; 
+  }
+  .rightBar { 
+    width: 100%; 
+    float: left; 
+  }
+  ul.eventList li span.one small { 
+    width: 48%; 
+  }
+  ul.eventList li span.two { 
+    width: 32%.33; 
+  }
+  ul.eventList li span.three { 
+    width: 19.67%; 
+  }
+  .newsBox h4 { 
+    padding-left: 1%; 
+  }
+  .videoBox h4 { 
+    padding-left: 1%; 
+  }
+  .homeBox .homeLeft { 
+    padding-top: 6px; 
+  }
+  .videoBox iframe { 
+    width: 100%!important; 
+    height: 80px!important; 
+  } 
+  .homeLeft h4 { 
+    font-size: 20px; 
+  }
+  .returnText {
+    width: 80%;
+  }
+  .returnText .retailBtn { 
+    font-size: 13px; 
+    min-width: 224px;
+    margin-top: 55px; 
+  }
+  .deliverInfo { 
+    background-size: 100%; 
+    width: 100%;
+  }
+  .productBox { 
+    width: 96%; 
+    float: left; 
+    padding: 0 2%; 
+  }
+  .returnText h3 { 
+    font-size: 18px; 
+  }
+  .returnText h3 small { 
+    font-size: 14px; 
+  }
+   .socialBox li { 
+    padding-right: 6%; 
+  }
+   .socialBox li img { 
+    width: 56px; 
+    height: 56px; 
+  }
+   .leftCntr { 
+    width: 100%; 
+    float: left; 
+  }
+   .rightCntr { 
+    padding-top: 10px; 
+    width: 100%; 
+    float: left; 
+  }
+   .addBox { 
+    display: none; 
+  }
+   .addBox img { 
+    width: 218px; 
+    height: auto; 
+  }
+   ul.servicesList figure { 
+    padding-left: 1%; 
+    width: 30.86%; 
+  }
+   ul.servicesList .clime { 
+    width: 65.14%; 
+  }
+   ul.servicesList h2 { 
+    font-size: 21px; 
+  }
+   ul.manageList li { 
+    width: 100%; 
+    float: left; 
+    margin: 0 0 2% 0; 
+  }
+   .entry { 
+    padding: 0 2%; 
+  }
+   .postBox { 
+    width: 96%; 
+    float: left; 
+    padding-left: 2%; 
+    padding-right: 2%; 
+  }
+   #post-6 .entry { 
+    padding: 0; 
+  }
+   ul.imageLink { 
+    float: left; 
+    padding: 0 2%; 
+    width: 96%; 
+    list-style: none; 
+  }
+  ul.imageLink li { 
+    margin-right: .8%; 
+    height: 130px; 
+    float: left; 
+    width: 48.54%; 
+    position: relative; 
+  }
+  ul.imageLink span { 
+    background: #282828;
+    font-size: 13px; 
+    color: #ffffff; 
+    font-family: 'Open Sans', verdana, arial, helvetica, sans-serif; 
+    font-weight: 400; width: 165px; 
+    display: block; height: 30px; 
+    line-height: 30px; 
+    text-align: center; 
+    position: absolute; 
+    top: 87px; 
+    left: 0px; 
+  }
+  ul.imageLink .pictureBg { 
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    width: 174px; 
+    height: 134px; 
+    z-index: 888; 
+  }
+  ul.imageLink .picInfob { 
+    width: 165px; 
+  }
+  ul.imageLink li.last .pictureBg { 
+    width: 169px; 
+  }
+  ul.imageLink li.last {
+    width: 23.9%;
+    margin-right: 0px; 
+  }
+  .picBg { 
+    display: none; 
+  }
+  .readBox li { 
+    width: 46%; 
+    margin: 10px 0px 0px 0px; 
+    margin-left: 1.25%;
+  }
+  
+  div.wrapper {
+    display: table;
+  }
+  .leftSide { 
+    width: 100%; 
+    float: none; 
+    display: table-footer-group; 
+  }
+  .rightSide { 
+    width: 100%; 
+    float: none; 
+    display: table-header-group;
+  }
+  .signBox {
+    margin-left: 10px;
+  }
+  .climate-image img { 
+    width: 100%; 
+  }
+  .homeBox { 
+    background-size: 100%; 
+  }
+  .homeRightJA { 
+    top: -202px;
+  }
+  .featureImg a.featureLink {
+    display: none;
+  }
+
+  .heroBar { 
+    background: #313131; 
+    width: 100%; 
+    min-height: 330px;
+  }
+  .heroBar .entry {
+    width: 96%;
+  }
+  .hero p { 
+    color: #ffffff!important;
+  }
+  .heroImage { 
+    display: none;
+  }
+  .heroImage img {
+
+  }
+  .heroImage .jobTitle { 
+    position: absolute; 
+    top: 174px; 
+    background: rgba(51, 51, 51, 0.7); 
+    left: 5px; 
+    padding-left: 60px; 
+    padding-bottom: 40px; 
+    padding-right: 60px; 
+    width: 200px; 
+  }
+  .heroImage div.jobTitle h2 { 
+    color: #ffffff; 
+    font-size: 18px;
+    padding-top: 15px;
+  }
+  .sliderlist {
+
+  }
+  .infoBar .entry {
+    width: inherit;
+  }
+  .aboutClime p { 
+    color: #434244;
+  }
+  .infoImage { 
+    overflow: hidden; 
+    margin-top: 70px; 
+    margin-right: 30px; 
+    position: relative; 
+    text-align: center;
+  }
+  .infoImage img {
+
+  }
+
+  blockquote { 
+    font-size: 16px; 
+  }
+  .author-name { 
+    font-size: 16px;
+  }
+}
+/* ============================= */
+/* ! Layout for mobile(portrait) version   */
+/* ============================= */
+@media only screen and (max-width: 479px) {
+  .no-mobile {
+    display: none; 
+  }
+  .nextBtn { 
+    left: 271px!important; 
+  }
+  #container { 
+    height: 39px; 
+    position: relative; 
+    width: 310px;
+  }  
+  #slider { 
+    width: 192px!important; 
+  }
+  #slider li {
+    margin-right: 0px!important; 
+    text-align: center; 
+    width: 192px!important;
+  }
+  #slider li img { 
+    margin: 0 auto!important; 
+  } 
+ .searchBox .searchR { 
+    width: 96%; 
+    padding: 0px; 
+    float: left; 
+    margin: 0 2%; 
+  }
+  .searchBox #s { 
+    width: 79%; 
+  }
+  .productBox { 
+    margin-top: 20px; 
+  }
+  .productBox li { 
+    width: 65%; 
+    display: inline; 
+    margin-left: 20%; 
+  }
+  .searchBox #searchsubmit { 
+    width: 14%; 
+  }
+  .searchBox .searchL { 
+    width: 100%; 
+    float: left; 
+    text-align: center; 
+  }
+  .searchBox ul { 
+    width: 100%; 
+    float: left; 
+    text-align: 
+    center; 
+  }
+  .searchBox ul li { 
+    float: none; 
+    display: inline; 
+  }
+  .searchBox li span { 
+    display: inline-block; 
+  }
+  .searchBox li a { 
+    display: inline-block; 
+  }
+  .returnText h3 { 
+    width: 100% ;
+  }
+  .returnText .retailBtn { 
+    width: 98%; 
+    padding: 0px 0px 0px 0px; 
+    margin: 20px 0 0 0; 
+  }
+  .homeBox { 
+    width: 96%; 
+    padding: 0 2%; 
+  }
+  .leftBar .textBox h2 { 
+    padding-left: 2%; 
+    width: 98%; 
+    float: left; 
+  }
+  .homeBox .homeLeft { 
+    padding-left: 2%; 
+    width: 98%; 
+    float: left; 
+  }
+  .homeBox .homeRight { 
+    width: 100%; 
+    position: relative; 
+    left: 0px; 
+    top: 0px; 
+    float: left; 
+  }
+  .deliverInfo { 
+    height: auto; 
+    width: 100%; 
+    padding: 0 0 0 0; 
+  }
+  .newsBox { 
+    padding: 15px 2%; 
+    width: 96%; 
+    float: left;
+  }
+  .newsBox .news { 
+    padding: 0 0 0 2%; 
+    width: 98%; 
+    float: left; 
+    margin: 0px; 
+  }
+  .videoBox { 
+    width: 96%; 
+    float: left; 
+    padding: 0 2%; 
+  }
+  .videoBox h4 { 
+    padding: 5% 0 5% 0; 
+    margin-left: 10px; 
+  }
+  .videoBox ul { 
+    padding-left: 0px; 
+    width: 100%; 
+  }
+  .videoBox li { 
+    width: 100%; 
+    float: left; 
+  }
+
+  .newsBox { 
+    width: 96%; 
+    float: left; 
+    padding: 0 2%; 
+  }
+  .newsBox h4 { 
+    padding: 5% 0 5% 0; 
+    margin-left: 10px;
+  }
+  .newsBox ul { 
+    padding-left: 0px; 
+    width: 100%; 
+  }
+  .newsBox li { 
+    width: 100%; 
+    float: left; 
+  } 
+  ul.servicesList figure { 
+    padding: 0px 0px 0px 2%; 
+    width: 98%; 
+    text-align: left; 
+  }
+  ul.servicesList .clime { 
+    padding: 10px 2% 0 2%; 
+    width: 96%; 
+    float: left; 
+  }
+  ul.imageLink { 
+    overflow: hidden; 
+  }
+  .readBox li { 
+    margin: 10px 2%; 
+    width: 94%; 
+    float: left; 
+  }
+  .formBox .formLeft { 
+    width: 100%; 
+    padding-right: 0px; 
+    float: left; 
+  }
+  .formBox .formRight { 
+    width: 100%; 
+    padding: 0px; 
+    margin: 0px; 
+    float: left; 
+  }
+  .copyrightBox .copyLeft { 
+    padding-top: 10px; 
+    text-align: center; 
+  }
+  .copyLeft .left li { 
+    line-height: 20px; 
+  }
+  .copyLeft .right li { 
+    line-height: 20px; 
+  }
+  .copyRight ul { 
+    padding: 10px 0;
+    text-align: center; 
+    width: 100%; 
+    float: left; 
+  }
+  .copyRight li { 
+    float: none; 
+    display: inline; 
+    line-height: 20px; 
+  }
+  .climate-image img { 
+    width: 100% 
+  }
+  .featureImg a.featureLink {
+    display: none;
+  }
+  .textBox h1.subpageTitle { 
+    text-align: center; 
+  }
+  .entry { 
+    text-align: center;
+  }
+  .product-thumbnail { 
+    width: 90%; 
+    text-align: center; 
+  }
+  .product-thumbnail img { 
+    float: none;
+  }
+
+  .product-description { 
+    width: 90%; 
+    text-align: center;
+  }
+
+  .heroBar { 
+    background: #313131; 
+    width: 100%; 
+    min-height: 510px;
+  }
+  .heroBar .entry {
+    width: inherit;
+  }
+  .hero p { 
+    color: #ffffff!important;
+  }
+  .heroImage { 
+    display: none;
+  }
+  .heroBar .heroBackground {
+    height: 410px; 
+  }
+  .sliderlist {
+
+  }
+  .bx-wrapper img {
+    height: auto !important; 
+    max-height: 80px !important;
+  }
+  .infoBar .entry {
+    width: inherit;
+  }
+  .aboutClime p { 
+    color: #434244;
+  }
+  .infoImage { 
+    float: left; 
+    overflow: hidden; 
+    margin: 0 auto; 
+    position: relative; 
+    text-align: center;
+  }
+  .infoImage img {
+
+  }
+  blockquote { 
+    font-size: 13px;
+  }
+  .author-name { 
+    font-size: 13px;
+  }
+
+}
